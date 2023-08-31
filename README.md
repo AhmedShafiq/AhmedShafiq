@@ -1,4 +1,5 @@
 # 👋 Hi, I’m Ahmed Shafiq
+![](https://github.com/theonlyshafiq/theonlyshafiq/blob/main/giphy.gif)
 # 💫 About Me:
 🔭 I’m currently working on computer vision projects.<br>👯 I’m looking to collaborate on artificial intelligence-related projects.<br>🌱 I’m currently learning about computer vision algorithms and techniques, as well as exploring the use of computer vision in real life.<br>⚡Fun fact - As a computer vision engineer with a background in graphic design, I bring a unique perspective to the field. My experience in graphic design allows me to combine aesthetics and visual perception with technical expertise.
 
