@@ -1,13 +1,10 @@
-- 👋 Hi, I’m Ahmed Shafiq
-  
-- 👀 Passionate AI professional with one year of experience in Computer Vision. I thrive in dynamic and challenging environments, leveraging my strong skills to drive successful outcomes.
-  My expertise lies in developing robust computer vision models and systems that can process and interpret complex visual data. I have a deep understanding of image preprocessing, feature extraction, and model optimization
-  techniques.
-  I am always exploring novel approaches and staying updated with the latest advancements in the field.
-  Collaboration is key to my work. I thrive in interdisciplinary teams, collaborating closely with researchers, engineers, and domain experts to understand specific requirements and deliver tailored computer vision
-  solutions.
-  I believe in the power of teamwork and effective communication to achieve outstanding results.
-  
-- 📫 How to reach me :
-  LinkedIn: https://www.linkedin.com/in/theonlyshafiq/
-  gmail: ahmedmuhammedshafiq@gmail.com
+# 👋 Hi, I’m Ahmed Shafiq
+# 💫 About Me:
+🔭 I’m currently working on computer vision projects.<br>👯 I’m looking to collaborate on artificial intelligence-related projects.<br>🌱 I’m currently learning about computer vision algorithms and techniques, as well as exploring the use of computer vision in real life.<br>⚡Fun fact - As a computer vision engineer with a background in graphic design, I bring a unique perspective to the field. My experience in graphic design allows me to combine aesthetics and visual perception with technical expertise.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/theonlyshafiq/) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
