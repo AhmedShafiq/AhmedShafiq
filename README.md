@@ -1,7 +1,20 @@
 # 👋 Hi, I’m Ahmed Shafiq
 ![](https://github.com/theonlyshafiq/theonlyshafiq/blob/main/giphy.gif)
 # 💫 About Me:
-🔭 I’m currently working on computer vision projects.<br>👯 I’m looking to collaborate on artificial intelligence-related projects.<br>🌱 I’m currently learning about computer vision algorithms and techniques, as well as exploring the use of computer vision in real life.<br>⚡Fun fact - As a computer vision engineer with a background in graphic design, I bring a unique perspective to the field. My experience in graphic design allows me to combine aesthetics and visual perception with technical expertise.
+
+👨‍💻 I'm an AI engineer with a strong background in machine learning and deep learning, specializing in computer vision. I have a passion for developing intelligent systems that can perceive and understand visual data.
+
+💼 With nearly 2 years of real-world experience, I have worked extensively on various computer vision projects, leveraging state-of-the-art techniques and frameworks. My expertise lies in developing and deploying machine learning models for object detection, image segmentation, and image classification tasks.
+
+🔬 I have a solid understanding of classical computer vision algorithms as well as hands-on experience with modern deep learning frameworks such as TensorFlow, PyTorch, and Keras. I am well-versed in convolutional neural networks (CNNs), recurrent neural networks (RNNs), and generative adversarial networks (GANs).
+
+🌟 I thrive in collaborative environments and have worked with cross-functional teams to deliver end-to-end AI solutions. I am experienced in preprocessing and augmenting large-scale image datasets, training deep learning models, and optimizing their performance for production deployment.
+
+🚀 I'm always excited to take on new challenges and contribute to cutting-edge projects that push the boundaries of AI in computer vision. Feel free to explore my GitHub repositories to see some of my work and projects.
+
+📫 You can reach me at ahmedmuhammedshafiq@gmail.com or connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/theonlyshafiq/)  to discuss collaborations, opportunities, or simply to chat about AI and computer vision.
+
+Looking forward to connecting with fellow AI enthusiasts and collaborating on exciting projects!
 
 
 ## 🌐 Socials:
