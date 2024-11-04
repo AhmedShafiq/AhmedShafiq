@@ -20,6 +20,11 @@ A tool to extract detailed game statistics, utilizing YOLOv3 for high-precision 
 ![Watch Demo](assests/gif2.gif)
 Detects and reads license plates in video streams, associating detected plates with vehicles using a custom-trained model and PaddleOCR for content recognition.
 
+## [GAN-Satellite-to-Map](https://github.com/ahmedshafiq12/GAN-Satellite-to-Map):
+![Results](assests/image1.jpg)
+
+This project implements a Pix2Pix GAN using PyTorch to generate maps from satellite images.
+
 ## [Social Distancing Detector](https://github.com/ahmedshafiq12/Social-Distancing-Detector-Old):
 ![Watch Demo](assests/gif3.gif)
 
