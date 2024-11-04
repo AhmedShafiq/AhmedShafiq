@@ -5,6 +5,19 @@
 🎯 Computer Vision Engineer | AI Enthusiast | Deep Learning Specialist
 I'm a Computer Vision Engineer with over two years of experience in AI and deep learning. My work primarily focuses on building and optimizing computer vision models for real-world applications, specializing in tasks such as object detection, real-time video analysis, and edge deployment. I have hands-on experience with various AI frameworks and enjoy tackling complex challenges to create impactful solutions.
 
+📂 Projects
+VisionStats (Graduation Project)
+Developed a system to track key game elements in sports videos, using YOLOv3 with 93% precision. The system calculated metrics like player distance covered and possession and implemented goal event detection.
+
+Hakeem (Personal Virtual Assistant)
+Built a multi-modal assistant integrating computer vision, speech recognition, and NLP. Fine-tuned models for Egyptian dialect recognition and utilized VGG19 for emotion detection, enhancing user interaction through personalized responses.
+
+License Plate Recognition System
+Created a real-time system for license plate detection and reading, utilizing PaddleOCR and ByteTrack algorithms to track vehicles and associate detected plates with specific vehicles.
+
+Social Distancing Detector
+Implemented a YOLOv8-based system to monitor crowd behavior in real-time, measuring social distancing violations with customizable visualization settings.
+
 📫 Connect with Me
 Email: ahmed.mshafiq77@gmail.com
 
