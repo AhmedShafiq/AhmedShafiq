@@ -24,6 +24,7 @@ A tool to extract detailed game statistics, utilizing YOLOv3 for high-precision 
 
 ## [License Plate Recognition System](https://github.com/ahmedshafiq12/License-Plate-Recognition-System):
 ![Watch Demo](assests/gif2.gif)
+
 Detects and reads license plates in video streams, associating detected plates with vehicles using a custom-trained model and PaddleOCR for content recognition.
 
 ## [GAN-Satellite-to-Map](https://github.com/ahmedshafiq12/GAN-Satellite-to-Map):
