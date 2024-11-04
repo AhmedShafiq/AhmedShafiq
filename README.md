@@ -5,7 +5,8 @@
 🎯 Computer Vision Engineer | AI Enthusiast | Deep Learning Specialist
 I'm a Computer Vision Engineer with over two years of experience in AI and deep learning. My work primarily focuses on building and optimizing computer vision models for real-world applications, specializing in tasks such as object detection, real-time video analysis, and edge deployment. I have hands-on experience with various AI frameworks and enjoy tackling complex challenges to create impactful solutions.
 
-📂 Projects
+# 📂 Projects:
+
 VisionStats (Graduation Project)
 Developed a system to track key game elements in sports videos, using YOLOv3 with 93% precision. The system calculated metrics like player distance covered and possession and implemented goal event detection.
 
