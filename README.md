@@ -6,6 +6,12 @@
 I'm a Computer Vision Engineer with over two years of experience in AI and deep learning. My work primarily focuses on building and optimizing computer vision models for real-world applications, specializing in tasks such as object detection, real-time video analysis, and edge deployment. I have hands-on experience with various AI frameworks and enjoy tackling complex challenges to create impactful solutions.
 
 # 📂 Projects:
+## [ACELYTICS (MMA - Tennis)](https://mvp.acelytics.ai/):
+![Watch Demo](assests/tennis.gif)
+![Watch Demo](assests/MMA.gif)
+
+A computer vision-based tennis and MMA smart coach that extracts statistics and provides recommendations from match videos, using advanced techniques like TrackNet, custom-built CNNs, YOLO, image processing, and homography.
+
 ## [Hakeem - Virtual Assistant](https://github.com/ahmedshafiq12/Egyptian-Arabic-Virtual-Assistant):
 ![Watch Demo](assests/gif4.gif)
 
