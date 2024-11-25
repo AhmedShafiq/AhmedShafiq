@@ -32,7 +32,7 @@ Detects and reads license plates in video streams, associating detected plates w
 
 This project implements a Pix2Pix GAN using PyTorch to generate maps from satellite images.
 
-## [Social Distancing Detector](https://github.com/ahmedshafiq12/Social-Distancing-Detector-Old):
+## [Social Distancing Detector](https://github.com/ahmedshafiq12/Social-Distancing-Detector):
 ![Watch Demo](assests/gif3.gif)
 
 Implemented a YOLOv8-based system to monitor crowd behavior in real-time, measuring social distancing violations with customizable visualization settings.
